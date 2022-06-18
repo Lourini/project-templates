@@ -1,5 +1,5 @@
 numpy
 opencv-python-headless
 streamlit
-keras==2.8
+tensorflow-cpu
 streamlit_webrtc
