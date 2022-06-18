@@ -1,5 +1,5 @@
 numpy
-opencv-python-headless==4.2.0.32
+opencv-python-headless
 streamlit
 keras
 streamlit_webrtc
