@@ -1,5 +1,5 @@
 numpy
 opencv-python-headless
 streamlit
-keras
+keras==2.8
 streamlit_webrtc
