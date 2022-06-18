@@ -1,5 +1,3 @@
-sudo apt-get update  
-sudo apt-get install ffmpeg libsm6 libxext6 
 mkdir -p ~/.streamlit/
 echo "\
 [server]\n\
